@@ -1,5 +1,3 @@
----
-
 # 🔐 Simple Password Manager (C++)
 
 This is a basic command-line password manager written in C++. It allows users to:
