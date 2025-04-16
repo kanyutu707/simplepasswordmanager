@@ -34,7 +34,7 @@ Make sure you have the following installed:
 2. Navigate to the project directory:
 
 ```bash
-cd your-project-directory
+cd simplepasswordmanager
 ```
 
 3. Create a `build` directory and compile the project:
