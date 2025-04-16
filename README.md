@@ -1,5 +1,3 @@
-Sure! Here's a clean and informative `README.md` for your C++ password manager project that can be built and run using CMake:
-
 ---
 
 # 🔐 Simple Password Manager (C++)
